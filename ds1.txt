@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 the hello baby2 mod by dev2
+=======
+
+this is Shyla  mod by dev2
+hello baby mod by dev2
+
+the hello baby2 mod by dev2
+
+>>>>>>> main
